@@ -1,0 +1,29 @@
+2021-10-27 11:08:57,699 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-27 11:09:25,363 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.unilim.iut:katatennis:0.0.1-SNAPSHOT @ C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\pom.xml.
+2021-10-27 11:09:25,771 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /katatennis/src/main/java
+2021-10-27 11:09:25,772 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /katatennis/src/test/java
+2021-10-27 11:09:25,829 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-10-27 11:09:27,475 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:09:27,475 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\main\resources
+2021-10-27 11:09:27,478 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:09:27,478 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\test\resources
+2021-10-27 11:12:28,262 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-27 11:20:09,877 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:20:09,878 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\main\resources
+2021-10-27 11:20:09,882 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:20:09,882 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\test\resources
+2021-10-27 11:20:22,025 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:20:22,025 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\main\resources
+2021-10-27 11:20:22,026 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:20:22,027 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\test\resources
+2021-10-27 11:20:29,635 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:20:29,635 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\main\resources
+2021-10-27 11:20:29,638 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:20:29,638 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\test\resources
+2021-10-27 11:23:31,597 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:23:31,598 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\main\resources
+2021-10-27 11:23:31,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:23:31,600 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\test\resources
+2021-10-27 11:23:48,006 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-27 11:23:48,006 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Loann\OneDrive - Université de Limoges\cours\Année 2\Methodo de la prod d app\S3\TP\tdM3105\katatennis\src\main\resources
+2021-10-27 11:23:48,008 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
